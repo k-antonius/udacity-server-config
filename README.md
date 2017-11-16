@@ -3,6 +3,7 @@ Udacity Server Config Project
 
 **Server IP Address: 18.216.138.184**
 Visit http://18.216.138.184 to see the deployed application.
+SSH port: 2200
 
 Software Installed
 ------------------
