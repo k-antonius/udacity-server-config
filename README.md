@@ -19,7 +19,7 @@ Software Installed
 4) SQLAlchemy
 5) Google python API and OAuth2 python libraries see [Google Docs at 'Language Specific Requirements'](https://developers.google.com/api-client-library/python/auth/web-app)
 6) requests library
-7) Item Catalog Project [see](https://github.com/k-antonius/item-catalog-udacity)
+7) Item Catalog Project [see repo](https://github.com/k-antonius/item-catalog-udacity)
 
 Configuration Changed
 ---------------------
